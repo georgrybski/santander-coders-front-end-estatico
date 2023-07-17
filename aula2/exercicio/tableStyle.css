@@ -1,0 +1,33 @@
+* {
+    font-family: Times;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,td {
+    border: 1px solid #e5e3e5;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+button {
+    width: 135px;
+    height: 35px;
+    border: none;
+    font-weight: bold;
+}
+
+.oculto {visibility: hidden; border: none;}
+
+.left-align {text-align: left; padding-right: 70px}
+
+.preco {height: 35px; font-size: 35px; font-weight: bold;}
+
+.plano-basico {color: white; background-color: #7ebff2;}
+
+.plano-padrao {color: white; background-color: #4a87ec;}
+
+.plano-avancado {color: white; background-color: #7073ec;}
